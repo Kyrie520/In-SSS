@@ -1,6 +1,6 @@
 # In-SSS
 ## Overview
-Stochastic computing is crucial for accurate and efficient processing of massive data in advanced artificial intelligence applications. This project demonstrated **a neuromorphic computing simulation based on the In-SSS** using the handwritten artificial neural network. We took a pattern recognition task as an example to illustrate the advantages of stochastic computation over deterministic computation. Furthermore, we conducted a comparison of three different stochastic computing strategies, and the findings indicated that **the in-situ stochastic computing strategy based on the In-SSS has the best performance**.
+Stochastic computing is crucial for accurate and efficient processing of massive data in advanced artificial intelligence applications. This project demonstrated **a neuromorphic computing simulation based on the In-SSS** using the handwritten artificial neural network. We took a pattern recognition task as an example to illustrate the advantages of stochastic computation over deterministic computation. Furthermore, we conducted a comparison of three hardware stochastic computing strategies, and the findings indicated that **the in-situ stochastic computing strategy based on the In-SSS has the best performance**.
 ## Requirements
 This project requires only a standard computer with enough RAM to support the operations. It has been tested on the following environment:
 - Windows 11
